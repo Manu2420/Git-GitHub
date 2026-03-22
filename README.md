@@ -17,3 +17,11 @@ Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudi
 - Permite regresar a versiones anteriores de forma sencilla y rápida.
 - Reduce considerablemente los tiempos de deploy.
 - Las "branches" o ramas, permiten trabajar con una base de código paralela al proyecto en sí.
+
+### Flujo de trabajo
+
+![Flujo](./img/Flujo%20de%20trabajo%20de%20Git.jpg)
+
+Los proyectos vinculados a Git, serán un repositorio.
+
+Tenemos nuestro directorio local (una carpeta en nuestro pc) con muchos archivos, Git nos irá registrando los cambios de archivos o códigos cuando nosotros le indiquemos, así podremos viajar en el tiempo retrocediendo cambios o restaurando versiones de código, ya sea en Local o de forma Remota (servidor externo). En la práctica quedará más claro.
