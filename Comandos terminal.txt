@@ -110,6 +110,8 @@ MORE           Muestra la información pantalla por pantalla.
 MOVE           Mueve uno o más archivos de un directorio a otro en la
                misma unidad.
 
+New-Item       Crea un nuevo archivo.
+
 OPENFILES      Muestra archivos compartidos abiertos por usuarios remotos como recurso compartido de archivos.
 
 PATH           Muestra o establece una ruta de búsqueda para archivos ejecutables.
